@@ -85,11 +85,3 @@ The scripts use `CREATE OR ALTER VIEW` and do **not** delete, UPDATE or overwrit
 ## Business interpretation
 
 The **Monitor 27 inch** generated approximately 60% of eligible net revenue but only five units sold in the sample. Its contribution is notable, but that alone is not evidence that a larger marketing investment would be profitable. Returns, history, inventory, true currency and campaign costs would need checking first.
-
-## Portfolio
-
-Add your public Notion project link here after publication. The Power BI report contains three pages: **Sales Overview**, **Product Profitability** and **Data Quality**.
-
-## Transparency
-
-This is an educational project completed with step-by-step guidance. The scripts below reproduce the documented approach; they are not represented as independently validated production code. Source dates are particularly ambiguous (such as `01/08/2025`), and this repository does not attempt to resolve them through guesswork. See [Methodology and Limitations](docs/METHODOLOGY_AND_LIMITATIONS.md).
